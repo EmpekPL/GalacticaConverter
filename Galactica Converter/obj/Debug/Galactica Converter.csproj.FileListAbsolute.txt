@@ -1,0 +1,17 @@
+C:\Users\MP\source\repos\Galactica Converter\Galactica Converter\bin\Debug\Galactica Converter.exe.config
+C:\Users\MP\source\repos\Galactica Converter\Galactica Converter\bin\Debug\Galactica Converter.exe
+C:\Users\MP\source\repos\Galactica Converter\Galactica Converter\bin\Debug\Galactica Converter.pdb
+C:\Users\MP\source\repos\Galactica Converter\Galactica Converter\obj\Debug\Galactica Converter.csprojResolveAssemblyReference.cache
+C:\Users\MP\source\repos\Galactica Converter\Galactica Converter\obj\Debug\MainWindow.g.cs
+C:\Users\MP\source\repos\Galactica Converter\Galactica Converter\obj\Debug\App.g.cs
+C:\Users\MP\source\repos\Galactica Converter\Galactica Converter\obj\Debug\Galactica Converter_MarkupCompile.cache
+C:\Users\MP\source\repos\Galactica Converter\Galactica Converter\obj\Debug\Galactica Converter_MarkupCompile.lref
+C:\Users\MP\source\repos\Galactica Converter\Galactica Converter\obj\Debug\MainWindow.baml
+C:\Users\MP\source\repos\Galactica Converter\Galactica Converter\obj\Debug\Galactica Converter.g.resources
+C:\Users\MP\source\repos\Galactica Converter\Galactica Converter\obj\Debug\Galactica_Converter.Properties.Resources.resources
+C:\Users\MP\source\repos\Galactica Converter\Galactica Converter\obj\Debug\Galactica Converter.csproj.GenerateResource.cache
+C:\Users\MP\source\repos\Galactica Converter\Galactica Converter\obj\Debug\Galactica Converter.csproj.CoreCompileInputs.cache
+C:\Users\MP\source\repos\Galactica Converter\Galactica Converter\obj\Debug\Galactica Converter.exe
+C:\Users\MP\source\repos\Galactica Converter\Galactica Converter\obj\Debug\Galactica Converter.pdb
+C:\Users\MP\source\repos\Galactica Converter\Galactica Converter\obj\Debug\WelcomeWindow.g.cs
+C:\Users\MP\source\repos\Galactica Converter\Galactica Converter\obj\Debug\WelcomeWindow.baml
